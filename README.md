@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Syed Rafat Halim
 ![](https://komarev.com/ghpvc/?username=rafat09&color=blueviolet)
-
 ### AI & Machine Learning Engineer | Quantitative Research Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Quantitative+Research+%26+Algorithmic+Trading;Backend+Systems+Development;Building+Scalable+AI+Solutions" />
@@ -133,9 +132,9 @@ Institution-grade execution simulation with latency and slippage tracking.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafat09&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafat09&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -144,7 +143,7 @@ Institution-grade execution simulation with latency and slippage tracking.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rafat09&theme=tokyonight"/>
 </p>
 
 ---
@@ -152,7 +151,7 @@ Institution-grade execution simulation with latency and slippage tracking.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafat09&theme=tokyo-night"/>
 </p>
 
 ---
@@ -176,15 +175,17 @@ Institution-grade execution simulation with latency and slippage tracking.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/syed-rafat-halim-803674251
+
+">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB">
+<a href="https://github.com/rafat09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:syedrafathalim0910@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
