@@ -88,7 +88,7 @@ Currently focused on building scalable AI solutions, quantitative research infra
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,redis,supabase,kaggle" />
 </p>
 
 - Supabase
