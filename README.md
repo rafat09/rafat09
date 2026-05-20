@@ -175,9 +175,7 @@ Institution-grade execution simulation with latency and slippage tracking.
 
 <p align="center">
 
-<a href="www.linkedin.com/in/syed-rafat-halim-803674251
-
-">
+<a href="www.linkedin.com/in/syed-rafat-halim-803674251">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
