@@ -1,49 +1,59 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Rafat Halim
-![](https://komarev.com/ghpvc/?username=rafat09&color=blueviolet)
-### AI & Machine Learning Engineer | Quantitative Research Enthusiast 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Rafat%20Halim&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Quantitative+Research+%26+Algorithmic+Trading;Backend+Systems+Development;Building+Scalable+AI+Solutions" />
+# 👋 Hi, I'm Syed Rafat Halim
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rafat09&color=blueviolet"/>
+</p>
+
+### AI & Machine Learning Engineer | Quantitative Research Enthusiast
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Researcher-blue"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-green"/>
+
+<img src="https://img.shields.io/badge/Quantitative-Research-orange"/>
+
+<img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF"/>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Quantitative+Research+%26+Financial+AI;Deep+Learning+%26+Computer+Vision;Building+Intelligent+Data+Driven+Systems;Medical+AI+and+Algorithmic+Trading" />
 
 </div>
 
----
-
 ## 🚀 About Me
-## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rafat09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 🎓 B.Tech Student in Artificial Intelligence & Machine Learning
 
-🔬 Passionate about:
+I am passionate about developing intelligent systems that combine machine learning, quantitative research, and data-driven decision making.
+
+My interests span across:
 
 - Machine Learning
 - Deep Learning
+- Computer Vision
+- Medical AI
 - Quantitative Finance
 - Algorithmic Trading
-- Computer Vision
-- Backend Operations
-- Market Microstructure
-- Financial AI
-
-📚 Currently Exploring:
-
-- Quant Research Infrastructure
-- Statistical Arbitrage
-- Trading Execution Systems
-- Market Data Engineering
-- Distributed Systems
+- Time Series Analysis
+- Financial Machine Learning
+- Recommendation Systems
 - Large Language Models
 
----
+Currently focused on building scalable AI solutions, quantitative research infrastructure, and machine learning applications for healthcare and finance.
+
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </p>
 
 ### Machine Learning & AI
@@ -55,148 +65,83 @@
 - Scikit-Learn
 - XGBoost
 - LightGBM
+- CatBoost
 - Pandas
 - NumPy
 - OpenCV
+- Keras
+- Hugging Face
+- Transformers
+- LangChain
 
-### Backend Development
+### Data Science & Analytics
+
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+- Kaggle
+- Feature Engineering
+- Statistical Analysis
+- Data Visualization
+
+### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,redis,postgres" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,redis,supabase" />
 </p>
 
-### Tools & Platforms
+- Supabase
+- SQL
+- GitHub Actions
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+## 🎯 Current Focus
 
----
+### 🤖 Artificial Intelligence
 
-## 📈 Current Focus
-
-### 🧠 AI Research
-
-- Deep Learning
-- Medical AI
+- Deep Learning Architectures
+- Medical Signal Processing
 - ECG Signal Analysis
 - Recommendation Systems
+- Large Language Models
 
 ### 📊 Quantitative Research
 
-Building:
+Building and researching:
 
-- Research Engine
-- Scoring Engine
-- Execution Engine
-- Risk Management Engine
+- Research Engines
+- Scoring Systems
 - Portfolio Analytics
+- Alpha Generation Frameworks
+- Statistical Arbitrage Strategies
 
-### ⚡ Trading Infrastructure
+### 📈 Financial Machine Learning
 
-Working on:
+Exploring:
 
-- Market Data Pipelines
-- Order Management Systems
-- Backtesting Frameworks
-- Real-Time Signal Processing
+- Time Series Forecasting
+- Market Microstructure
+- Risk Modelling
+- Factor Research
+- Trading Signal Development
 
----
+## 🔬 Research Interests
 
-## 🏆 Featured Projects
-
-### ❤️ ECG Signal Analysis for Heart Health
-
-Machine Learning-based ECG signal processing system for detecting Left Ventricular Hypertrophy (LVH).
-
-### 📊 Quant Research Platform
-
-End-to-end quant research ecosystem including:
-
-- Data Ingestion
-- Signal Generation
-- Scoring Infrastructure
-- Portfolio Construction
-
-### 🖼️ Intelligent Image Recommendation System
-
-Natural language powered image retrieval using modern AI techniques.
-
-### 📈 Trading Execution Engine
-
-Institution-grade execution simulation with latency and slippage tracking.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafat09&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafat09&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rafat09&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafat09&theme=tokyo-night"/>
-</p>
-
----
-
-## 🎯 Research Interests
-
-- Quantitative Research
-- Machine Learning for Finance
-- Statistical Arbitrage
-- Algorithmic Trading
+- Artificial Intelligence
+- Machine Learning
 - Deep Learning
 - Computer Vision
+- Medical AI
+- Quantitative Research
+- Financial Machine Learning
+- Time Series Forecasting
 - Reinforcement Learning
-- Financial Engineering
+- Statistical Learning
+- Recommendation Systems
+- Natural Language Processing
 - Market Microstructure
-- Distributed Systems
+- Algorithmic Trading
 
----
+## 💭 Research Philosophy
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/syed-rafat-halim-803674251">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/rafat09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:syedrafathalim0910@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Building intelligent systems at the intersection of AI, Finance, and Software Engineering."
-
-⭐ If you like my work, feel free to star my repositories.
-
-</div>
-
-![snake gif](https://github.com/rafat09/rafat09/blob/output/github-contribution-grid-snake.svg)
+> "Transforming data into intelligence through research, machine learning, and systematic problem solving."
