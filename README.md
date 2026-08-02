@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=rafat09&color=blueviolet"/>
 </p>
 
-### AI & Machine Learning Engineer | Quantitative Research Enthusiast
+### AI & Machine Learning Engineer 
 
 <p align="center">
 
@@ -124,24 +124,3 @@ Exploring:
 - Risk Modelling
 - Factor Research
 - Trading Signal Development
-
-## 🔬 Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Medical AI
-- Quantitative Research
-- Financial Machine Learning
-- Time Series Forecasting
-- Reinforcement Learning
-- Statistical Learning
-- Recommendation Systems
-- Natural Language Processing
-- Market Microstructure
-- Algorithmic Trading
-
-## 💭 Research Philosophy
-
-> "Transforming data into intelligence through research, machine learning, and systematic problem solving."
