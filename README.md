@@ -10,17 +10,7 @@
 
 ### AI & Machine Learning Engineer 
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Researcher-blue"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-green"/>
-
-<img src="https://img.shields.io/badge/Quantitative-Research-orange"/>
-
-<img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF"/>
-
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Quantitative+Research+%26+Financial+AI;Deep+Learning+%26+Computer+Vision;Building+Intelligent+Data+Driven+Systems;Medical+AI+and+Algorithmic+Trading" />
 
